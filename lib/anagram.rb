@@ -6,7 +6,8 @@ class Anagram
   end
 
   def match(array)
-    word.split(//)
+    word_array = word.split(//)
+
   end
 
 
